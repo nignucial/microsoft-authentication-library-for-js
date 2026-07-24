@@ -61,7 +61,7 @@
     "@types/jest": "^27.4.0",
     "eslint-plugin-jsdoc": "^39.3.2",
     "husky": "^7.0.2",
-    "jest": "^27.5.0",
+    "jest": "^30.4.2",
     "regenerator-runtime": "^0.13.9",
     "rimraf": "^3.0.2",
     "rollup": "^2.58.0",
@@ -74,7 +74,7 @@
   },
   "dependencies": {
     "@azure/msal-common": "^9.0.0",
-    "axios": "^0.24.0",
+    "axios": "^0.33.0",
     "jose": "^4.9.2"
   }
 }
